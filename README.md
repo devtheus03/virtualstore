@@ -4,4 +4,4 @@
 
 # Tecnologias utilizadas
 
-*Bootstrap*
+*HTML Bootstrap*
